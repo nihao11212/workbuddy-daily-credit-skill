@@ -4,7 +4,7 @@
 
 ## 安装
 
-从 GitHub 仓库点击「Code → Download ZIP」下载技能包，然后在 WorkBuddy 中打开「专家·技能·连接器 → 技能 → 添加技能 → 上传技能」，选择下载的 ZIP。也可以使用本目录里的版本化 ZIP。其他电脑需分别导入此 ZIP，并安装、登录 WorkBuddy 桌面端。
+从 GitHub 仓库点击「Code → Download ZIP」下载技能包，或使用桌面上的 `workbuddy-daily-credit.zip`。然后在 WorkBuddy 中打开「专家·技能·连接器 → 技能 → 添加技能 → 上传技能」，选择 ZIP。其他电脑需分别导入此 ZIP，并安装、登录 WorkBuddy 桌面端。
 
 ## 使用
 
