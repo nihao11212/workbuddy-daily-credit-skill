@@ -4,6 +4,10 @@
 
 ## 安装
 
+公开仓库：<https://github.com/nihao11212/workbuddy-daily-credit-skill>
+
+直接下载：<https://github.com/nihao11212/workbuddy-daily-credit-skill/archive/refs/heads/main.zip>
+
 从 GitHub 仓库点击「Code → Download ZIP」获取技能包，或使用单独分发的 `workbuddy-daily-credit.zip`。然后在 WorkBuddy 中打开「专家·技能·连接器 → 技能 → 添加技能 → 上传技能」，选择 ZIP。其他电脑需分别导入此 ZIP，并安装、登录 WorkBuddy 桌面端。
 
 ## 使用
